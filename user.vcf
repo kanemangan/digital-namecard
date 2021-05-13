@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Mangan;Kane;;;
+FN: Kane  Mangan 
+ORG:Cube Online;
+TITLE:Digital Account Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:kmangan@cubeonline.com.au
+TEL;type=WORK;type=VOICE:+612 9157 4093
+item1.ADR;type=WORK;type=pref:;;Lv2, 61 Dunning Ave\nRosebery\;;;2018;Australia
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:cubeonline.com.au/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
